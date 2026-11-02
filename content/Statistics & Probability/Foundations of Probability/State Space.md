@@ -1,0 +1,1 @@
+The [[Codomain]] of a [[Random Variable]] $X$. For [[Markov Chain|Markov Chains]] this is the [[Union]] of all codomains for random variables $Y_j$. In other words, all possible states of a Markov chain.

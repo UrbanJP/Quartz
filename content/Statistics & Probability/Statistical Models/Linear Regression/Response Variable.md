@@ -1,0 +1,1 @@
+The response variable, usually denoted as $Y$ is the variable whose outcome is determined by the values of one or more [[Predictor Variable|Predictor Variables]]. In earlier mathematics courses this would often be called the [[Dependent Variable]]. Other terms include outcome variable and output variable.

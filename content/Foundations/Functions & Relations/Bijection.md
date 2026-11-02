@@ -1,0 +1,1 @@
+A [[Function]] forms a bijection if and only if it forms an [[Injection]] and a [[Surjection]].

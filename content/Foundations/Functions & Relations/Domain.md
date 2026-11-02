@@ -1,0 +1,1 @@
+The domain of a [[Function]] is the [[Set]] of inputs

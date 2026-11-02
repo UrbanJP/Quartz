@@ -1,0 +1,1 @@
+In a [[Linear Model]] the parameters are all the [[Coefficient|Coefficients]] of the [[Predictor Variable|Predictor Variables]] as well as the intercept $\beta_0$. In other words the parameters are all the $\beta_i$'s. 

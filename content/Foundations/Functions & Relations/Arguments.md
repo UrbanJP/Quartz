@@ -1,0 +1,1 @@
+An argument is the thing being inputted into a [[Function]], [[Relation]], or [[Operator|Operation]]. For example, in the function $f(x) = x^2 + 3$, the $x$ in $f(x)$ is the argument of the function. An example of a relation is $R(x,y)$, or written another way $xRy$, where $R$ represents equality $(x=y)$. Here $x$ and $y$ are arguments of the relation.

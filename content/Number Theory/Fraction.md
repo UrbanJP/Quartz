@@ -1,0 +1,1 @@
+Fractions are numbers of the form $\frac{a}{b}$ where $a$ and $b$ are both [[Integers]]. The [[Set]] of all fractions makes up the [[Rational Numbers]].

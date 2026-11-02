@@ -1,0 +1,1 @@
+A linear decrease in [[Present Value]] over time.

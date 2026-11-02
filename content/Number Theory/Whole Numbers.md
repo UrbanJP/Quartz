@@ -1,0 +1,1 @@
+The whole numbers are the nearly the same as the [[Natural Numbers]], but the [[Set]] includes $0$. The set is $\{0,1,2,3, \ldots \}$.

@@ -1,0 +1,1 @@
+A reciprocal of a [[Fraction]] or [[Rate]] is the number after swapping the [[Numerator]] and [[Denominator]].

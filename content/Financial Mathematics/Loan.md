@@ -1,0 +1,1 @@
+A loan is money given to a recipient. The person giving the loan is called the lender. The person receiving the loan is called the borrower. Due to [[Inflation]] and the lender having to give up their money immediately, lenders typically charge [[Interest]] on loans. $20,000 does not hold the same value as $20,000 in five or ten years.

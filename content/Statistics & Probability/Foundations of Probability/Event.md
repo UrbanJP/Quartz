@@ -1,0 +1,1 @@
+In probability theory, an event is an element of a [[Sigma Algebra]]. This means that it is a [[Subset]] of the [[Sample Space]]. 

@@ -1,0 +1,1 @@
+A level payment is any contract where payments are paid at a constant price $c$ for each [[Payment Period]].

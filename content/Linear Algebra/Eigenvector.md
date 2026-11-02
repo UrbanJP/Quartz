@@ -1,0 +1,1 @@
+An eigenvector $\vec{v}$ is a [[Vector]] in the equation $A \vec{v} = \lambda \vec{v}$ where $A$ is a [[Square Matrix]] and $\lambda$ is an [[Eigenvalue]]. 

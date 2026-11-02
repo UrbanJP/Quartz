@@ -1,0 +1,1 @@
+The axes on the [[Cartesian Coordinate System]] are the $x$-axis and $y$-axis. These are two real number lines that are [[Orthogonal]] forming the [[Coordinate System]] for Cartesian [[Ordered Pair|Ordered Pairs]].

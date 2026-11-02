@@ -1,0 +1,1 @@
+Volatility, or price volatility, is a measure for how much the return of a [[Security]] or an [[Index]] varies. A [[Measures of Spread|Measure of Spread]] is used to statistically analyze how volatile a financial product is.

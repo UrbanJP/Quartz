@@ -1,0 +1,3 @@
+Matrix Multiplication is the process of multiplying [[Matrix|Matrices]]. In contrast to the multiplication learned in elementary school, Matrix multiplication is not [[Commutative Property|Commutative]]. Matrix multiplication can only be operated when the left side matrix has [[Dimension]] $A \times B$ and the right side matrix is size $B \times C$ where $A$, $B$, and $C$ are [[Whole Numbers]].
+
+The $i^{th}$ row of the left matrix times the $i^{th}$ column of the right matrix.

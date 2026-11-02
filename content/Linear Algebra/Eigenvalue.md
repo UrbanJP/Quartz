@@ -1,0 +1,1 @@
+An eigenvalue is the [[Scalar]] $\lambda$ in the equation $A \vec{v} = \lambda \vec{v}$ where $A$ is a [[Square Matrix]] and $\vec{v}$ is a vector known as the [[Eigenvector]].

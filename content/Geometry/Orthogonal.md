@@ -1,0 +1,1 @@
+In laymen's terms, two lines are orthogonal when they form a [[Right Angle]].

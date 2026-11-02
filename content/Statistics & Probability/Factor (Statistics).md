@@ -1,0 +1,1 @@
+In statistics, a factor is a [[Categorical Variable]].

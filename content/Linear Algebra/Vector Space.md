@@ -1,0 +1,1 @@
+A vector space is a [[Set]] of [[Vector|Vectors]] with the [[Operator|Operations]] of vector addition and [[Scalar]] multiplication is defined.

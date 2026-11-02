@@ -1,0 +1,1 @@
+The partial derivative $(\partial)$ of a [[Function]] with respect to a variable $x$ is the [[Derivative]] of the function after treating all other variables as [[Constant|Constants]]. It is denoted as $\frac{\partial f}{\partial x}$.

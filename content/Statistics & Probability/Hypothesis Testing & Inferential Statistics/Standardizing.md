@@ -1,0 +1,1 @@
+Standardizing is the process of of transforming one [[Probability Distribution]] into another of the same type that allows for ease of testing. The typical case is standardizing a [[Normal Distribution]] by finding the [[Z-Score]]. This transforms the original normal distribution into a normal distribution with [[Arithmetic Mean]] $\mu=0$ and [[Variance]] $\sigma^2=1$.

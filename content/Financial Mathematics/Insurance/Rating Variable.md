@@ -1,0 +1,1 @@
+A rating variable is a characteristic of whatever is insured and whatever affects the insured. For example, if a car is insured, characteristics of the car (make and model) would be rating variables but also characteristics of the driver such as their age and gender.

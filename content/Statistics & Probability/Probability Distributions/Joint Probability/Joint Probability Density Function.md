@@ -1,0 +1,1 @@
+A joint probability density function is a [[Probability Density Function]] where more than one [[Random Variable]] are considered together and their events [[Intersection|Intersect]].

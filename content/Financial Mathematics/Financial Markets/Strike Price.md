@@ -1,0 +1,1 @@
+For an [[Option]], the strike price $K$ is the price that was agreed upon to buy the underlying financial asset by maturity time $T$. Despite market price being commonly represented by the letter $S$, it is not the same as strike price. $S_0$ and $S_T$ represents the [[Market]] price at times zero and $T$ respectively.

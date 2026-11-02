@@ -1,0 +1,1 @@
+A security, also known as a liquid tradable security, is a financial asset that can be [[Tradable Asset]].

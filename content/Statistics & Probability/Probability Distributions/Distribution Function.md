@@ -1,0 +1,1 @@
+Also called Distributive Function, or Cumulative Distribution Function. Same as [[Cumulative Density Function]]. These names are used for discrete functions where there is no [[Density (Statistics)]].

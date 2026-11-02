@@ -1,0 +1,1 @@
+A Poisson point process is a [[Stochastic Process]] where points are randomly located and [[Independence|Independent]]. The location of the points are on a mathematical space, typically the [[Real Numbers]] line. This process naturally gives rise to the [[Poisson Distribution]] and [[Exponential Distribution]].

@@ -1,0 +1,1 @@
+The slope of a line is a [[Ratio]] measuring the change in one [[Axis]] with respect to another. Typically this is the $y$-axis and the $x$-axis.

@@ -1,0 +1,1 @@
+Dividends are periodic payments paid to shareholders by the company for holding shares in their company.

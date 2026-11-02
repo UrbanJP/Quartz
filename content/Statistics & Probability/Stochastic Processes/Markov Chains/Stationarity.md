@@ -1,0 +1,6 @@
+A [[Probability Distribution]] $\pi \equiv \{ \pi_k | k \in \mathbb{S} \}$ is stationary if the [[Markov Chain]] is in [[Equilibrium]] when $\pi$ is the [[Initial Distribution]] of the Markov chain. The term stationarity applies to the initial distribution, not the Markov chain. Equilibrium is the term applied to the Markov chain.
+
+## Formal Definition
+A distribution $\pi \equiv \{ \pi_k | k \in \mathbb{S} \}$ is stationary on a Markov chain with [[Transition Matrix]] $P$ if $\pi P = \pi$, i.e., $$\forall k \in \mathbb{S}, \quad \pi_k = \sum_{j \in \mathbb{S}} \pi_j p_{jk}$$ It's important to see that the above is just [[Matrix Multiplication]] and each $\pi_k$ is an element of the [[Matrix]] $\pi$, an $|\mathbb{S}| \times 1$ matrix.
+## Examples
+Consider the initial distribution $\pi$ of a Markov chain where the [[State Space]] $\mathbb{S} = \{1,2 \}$. Then since $\pi \equiv \{ \pi_k | k \in \mathbb{S} \}$  then $\pi = \{ \pi_1 , \pi_2 \}$. Both $\pi_1$ and $\pi_2$ represent probabilities

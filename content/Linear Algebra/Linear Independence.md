@@ -1,0 +1,1 @@
+Two or more mathematical objects are linearly independent if they cannot be written as a [[Linear Combination]] of the others.

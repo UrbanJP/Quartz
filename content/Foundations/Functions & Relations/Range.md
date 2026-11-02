@@ -1,0 +1,1 @@
+An ambiguous term used to either mean [[Codomain]] or [[Image]].

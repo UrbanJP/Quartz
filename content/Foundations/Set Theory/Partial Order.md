@@ -1,0 +1,1 @@
+A partial order on a [[Set]] is an arrangement where some, but maybe not all, pairs of [[Element|Elements]] have an order meaning one element precedes the other.

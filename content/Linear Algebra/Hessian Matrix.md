@@ -1,0 +1,1 @@
+The Hessian Matrix is a [[Matrix]] of second order [[Partial Derivative|Partial Derivatives]].

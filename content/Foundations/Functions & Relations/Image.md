@@ -1,0 +1,1 @@
+Not to be confused with [[Codomain]] and [[Preimage]]. The image of a [[Function]] are the actual values a function outputs. For example, a function $f: \mathbb{R} \to \mathbb{R}$ where $f(x) = |x|$, the image is $[0, \infty)$.

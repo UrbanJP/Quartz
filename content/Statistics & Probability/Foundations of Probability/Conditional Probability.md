@@ -1,0 +1,1 @@
+Conditional probability is the [[Probability]] that some [[Event]] $A$ has occurred given that an event $B$ has occurred. It is denoted as $P(A|B)$ which is the probability of $A$ given $B$.

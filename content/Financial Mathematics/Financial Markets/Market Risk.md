@@ -1,0 +1,1 @@
+Market risk is the risk caused by a [[Market]] fluctuations e.g. price changes.

@@ -1,0 +1,1 @@
+The role of inferential statistics is to extrapolate information from a [[Sample]] to make conclusions about a [[Population]].

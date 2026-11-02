@@ -1,0 +1,1 @@
+An empirical distribution is the [[Probability Distribution]] of a [[Sample]].

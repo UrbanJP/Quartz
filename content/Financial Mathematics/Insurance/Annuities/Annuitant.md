@@ -1,0 +1,1 @@
+The owner of an [[Annuity]]. To contrast with borrowers of a [[Loan]] (The owners of the loan), the annuitant receives payments while borrowers pay. In this way, an annuity is the opposite of a loan. For loans, you receive money upfront and pay back later usually over time. For an annuity, you pay upfront and receive money later usually over time.

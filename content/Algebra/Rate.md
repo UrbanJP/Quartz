@@ -1,0 +1,1 @@
+A rate is a special kind of [[Ratio]] where two numbers of different units are being compared. 

@@ -1,0 +1,1 @@
+The column space of a [[Matrix]] is

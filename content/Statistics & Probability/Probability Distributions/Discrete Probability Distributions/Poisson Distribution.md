@@ -1,0 +1,1 @@
+The Poisson distribution is a [[Probability Distribution]] of a a number of [[Independence|Independent]] [[Event|Events]] in a fixed time interval.

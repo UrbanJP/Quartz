@@ -1,0 +1,1 @@
+Let $B$ be a [[Subset|Proper Subset]] of $A$. Then the infimum of $B$ is the greatest [[Element]] in $A$ that is less than all elements in $B$.

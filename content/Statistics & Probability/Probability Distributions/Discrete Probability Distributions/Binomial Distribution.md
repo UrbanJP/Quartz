@@ -1,0 +1,1 @@
+The Binomial Distribution denoted as $\text{Bin} \sim (n,p)$ 

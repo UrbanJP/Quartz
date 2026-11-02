@@ -1,0 +1,1 @@
+A nonlevel annuity is a type of [[Annuity]] where payments are not [[Level Payment|Level]] for each [[Payment Period]]. This means that the payment differs between each payment period.

@@ -1,0 +1,1 @@
+The top number of a fraction. An example is the $2$ in $\frac{2}{5}$.

@@ -1,0 +1,1 @@
+A statistic is said to be statistically significant when the probability of getting that value or higher (or lower) given the [[Null Hypothesis]] is low, usually below 5%. A value is said to be statistically significant if the [[p-Value]] is below the [[Significance Level]]. 

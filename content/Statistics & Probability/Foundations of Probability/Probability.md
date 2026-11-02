@@ -1,0 +1,1 @@
+The probability of an [[Event]] $x$ is the output of the probability [[Function]] $P: F \to [0,1]$ when $x$ is the input. Here $F$ is the [[Event Space]] and $P$ is the [[Measure]] of the [[Measure Space]].

@@ -1,0 +1,1 @@
+Two [[Variable|Variables]] $x$ and $y$ are proportional if $y=kx$ for some [[Constant]] $k$.

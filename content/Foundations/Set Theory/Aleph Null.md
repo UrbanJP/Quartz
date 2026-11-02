@@ -1,0 +1,1 @@
+$\aleph_0$ (Aleph Null) is the smallest [[Infinity]].

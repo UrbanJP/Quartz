@@ -1,0 +1,1 @@
+The F-test is a statistical test that compares variance to determine if the variances between two or more samples are significantly different.

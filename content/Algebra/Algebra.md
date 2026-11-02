@@ -1,0 +1,33 @@
+%% Begin Waypoint %%
+- **Abstract Algebra**
+- **Basic Arithmetic**
+- **Universal Algebra**
+- [[Addition]]
+- [[Algebraic Structure]]
+- [[Associative Property]]
+- [[Asymptote]]
+- [[Ceiling Function]]
+- [[Coefficient]]
+- [[Commutative Property]]
+- [[Constant]]
+- [[Denominator]]
+- [[Dependent Variable]]
+- [[Distributive Property]]
+- [[Equation]]
+- [[Equivalence]]
+- [[Expression]]
+- [[Floor Function]]
+- [[Homomorphism]]
+- [[Independent Variable]]
+- [[Numerator]]
+- [[Operator]]
+- [[Proportional]]
+- [[Rate]]
+- [[Ratio]]
+- [[Reciprocal]]
+- [[Root]]
+- [[Square Root]]
+- [[Tuple]]
+- [[Variable]]
+
+%% End Waypoint %%

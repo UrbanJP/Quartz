@@ -1,0 +1,1 @@
+A discrete-time Markov chain (DTMC) is a [[Markov Chain]] with a [[Countable]] number of time steps in a [[Sequence]]. This number could be finite or infinite.

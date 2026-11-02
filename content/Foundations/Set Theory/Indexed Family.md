@@ -1,0 +1,4 @@
+An indexed family, or sometimes just family, is a collection of items defined through an [[Index Set]]. This index set is typically a [[Subset]], whether proper or improper, of the [[Whole Numbers]]. The [[Cardinality]] of the index set determines how many objects are being defined.
+
+## Examples
+Consider the set $I = \{1, 2, 3, \ldots, 20 \}$. Currently this is not an index set since we are not defining any objects with this set. Now let's define $\{ a_i | i \in I \}$, the [[Set]] of all $a$ sub $i$ such that each $i$ is in the set $I$. We have now just defined an indexed family consisting of $20$ objects, namely $a_1, a_2, \ldots , a_n$. We have not given these objects any values however.

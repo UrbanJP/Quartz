@@ -1,0 +1,1 @@
+The normal, or Gaussian, distribution denoted as $N \sim (\mu, \sigma^2)$ is a continuous [[Probability Distribution]] in the shape of a bell curve.

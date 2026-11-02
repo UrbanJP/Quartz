@@ -1,0 +1,1 @@
+Annuity-due is a type of [[Annuity]] where payments occur at the beginning of each payment period.

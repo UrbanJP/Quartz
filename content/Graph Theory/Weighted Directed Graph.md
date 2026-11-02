@@ -1,0 +1,1 @@
+A weighted directed graph is a kind of [[Directed Graph]] where the [[Edge (Graph Theory)|Edges]] have differing values. This is compared to an unweighted graph where edges are treated equally or the weights as [[Uniform Distribution|Uniformly Distributed]].

@@ -1,0 +1,1 @@
+A contingent annuity is a type of [[Annuity]] where the length of the contract is not certain. An example is a [[Life Annuity]].

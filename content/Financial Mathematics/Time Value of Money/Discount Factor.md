@@ -1,0 +1,1 @@
+The discount factor is the reciprocal of the [[Accumulation Factor]] and is $\nu = \frac{1}{1+i}$. It is the [[Discount Function]] evaluated at $t=1$.

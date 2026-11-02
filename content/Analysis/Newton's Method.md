@@ -1,0 +1,3 @@
+Newton's method is a method for approximating the [[Root|Roots]] of a [[Function]] $f(x)=0$. It is an iterative process that begins with an initial guess. For any value $x_n$ that approximates a root, $x_{n+1}$ is a better approximation where $$x_{n+1} = x_n - \frac{f(x_n)}{f'(x_n)}$$ The process starts with an initial guess $x_0$ which is chosen based on an educated guess.
+
+It's important to note that if the guess for $x_0$ is not sufficiently close to the actual value, the successive $x_i$'s will not [[Convergence|Converge]].

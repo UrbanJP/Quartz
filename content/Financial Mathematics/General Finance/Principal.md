@@ -1,0 +1,1 @@
+The initial amount of money before [[Interest]] is applied such as an initial deposit.

@@ -1,0 +1,3 @@
+The Bernoulli Distribution $X$ ~ $Bernoulli(p)$ is a [[Discrete Probability Distribution]] that measures the outcome of a [[Random Variable]] where exactly two [[Event|Events]] are possible. This is typically measured as the outcome being either $1$ with probability $p$ and $0$ with probability $q=1-p$. This can be used to measure things such as success or failure, yes or no questions, true or false, or any similar scenario.
+
+Only one [[Trials and Experiments|Trial]] is measured.

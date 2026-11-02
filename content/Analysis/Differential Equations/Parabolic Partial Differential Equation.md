@@ -1,0 +1,3 @@
+Consider a second-order, linear, and constant coefficient [[Partial Differential Equation]] of a real valued function $f(x,y)$. It takes the form
+$$A \frac{\partial^2f}{\partial x^2} + 2B \frac{\partial^2f}{\partial xy} + C\frac{\partial^2f}{\partial y^2} + D \frac{\partial f}{\partial x} + E \frac{\partial f}{\partial y} + F = 0$$
+This equation is considered a parabolic partial differential equation if $B^2 - AC = 0$.

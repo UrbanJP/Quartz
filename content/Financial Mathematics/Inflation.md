@@ -1,0 +1,1 @@
+Inflation is the upward movement of prices for goods and services as time passes. Inflation is a natural phenomena for an economy, but inflation can occur too quickly leading to an economic collapse.

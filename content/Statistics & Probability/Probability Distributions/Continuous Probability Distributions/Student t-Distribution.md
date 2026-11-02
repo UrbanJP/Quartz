@@ -1,0 +1,1 @@
+A distribution used in [[Hypothesis Test|Hypothesis Testing]] when population standard deviation $\sigma$ is unknown. 

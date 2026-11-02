@@ -1,0 +1,1 @@
+The coefficient of determination $R^2$ is a numerical value that represents how much [[Variance]] in the [[Response Variable]] can be explained by one or more [[Predictor Variable|Predictor Variables]].

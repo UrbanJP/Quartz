@@ -1,0 +1,1 @@
+The complement rule of probability states $P(A') = 1-P(A)$.

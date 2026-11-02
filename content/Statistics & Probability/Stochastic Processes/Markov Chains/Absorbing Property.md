@@ -1,0 +1,1 @@
+A specific state $k$ of a [[Markov Chain]] is said to be absorbing if the probability $p_{kk}=1$. In other words, if the Markov chain is in state $k$ it will never leave state $k$. 

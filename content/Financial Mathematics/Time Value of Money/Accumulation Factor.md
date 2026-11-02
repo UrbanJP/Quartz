@@ -1,0 +1,1 @@
+The accumulation factor is the [[Accumulation Function]] evaluated at $t=1$ and is equal to $1+i$. It is the value which the [[Principal]] can be multiplied by to get the total after interest is taken into account.

@@ -1,0 +1,1 @@
+A contradiction is a [[Proposition]] that is always false. It can be seen as the opposite of a [[Tautology]].

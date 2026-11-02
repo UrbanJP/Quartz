@@ -1,0 +1,1 @@
+The main effect in [[Linear Regression]] is the effect a single [[Predictor Variable]] has on the [[Response Variable]] after the [[Level|Levels]] of all other [[Factor (Statistics)|Factors]] are averaged out. It considers on one [[Predictor Variable]]without taking into consideration how different levels of other factors would change the response.

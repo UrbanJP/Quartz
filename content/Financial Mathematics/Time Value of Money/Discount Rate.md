@@ -1,0 +1,1 @@
+With interest, when investing $1$ we end up with $1+i$. With discounting we start with $1-d$ and end up with $1$.

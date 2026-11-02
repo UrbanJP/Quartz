@@ -1,0 +1,1 @@
+The Banach-Tarski Paradox states that a ball can be broken into pieces and repositioned into two balls of the same size as the original. 

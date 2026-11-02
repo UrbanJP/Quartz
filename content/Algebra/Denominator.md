@@ -1,0 +1,1 @@
+The bottom number of a [[Fraction]]. An example is the $5$ in $\frac{2}{5}$.

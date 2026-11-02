@@ -1,0 +1,1 @@
+Premium is the total amount charged to a policy holder. This includes the [[Pure Premium]], expected losses and claim handling expenses, as well as additional costs to run the insurance firm such as office expenses, taxes, and profit for the company. These additional expenses are spread out across all policy holders and is charged typically as a monthly fee known as the premium.

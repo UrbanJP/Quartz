@@ -1,0 +1,1 @@
+A basis is a [[Set]] of [[Linear Independence|Linearly Independent]] [[Vector|Vectors]] that [[Span]] the [[Vector Space]] of the given [[Matrix]].

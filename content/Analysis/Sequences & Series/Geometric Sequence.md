@@ -1,0 +1,1 @@
+A geometric sequence is a [[Sequence]] of the form $$a_n = a_{n-1} \cdot r$$ where $r$ is a [[Constant]].

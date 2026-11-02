@@ -1,0 +1,1 @@
+An estimate of [[Standard Deviation]]. It is the square root of [[Mean Squared Error (MSE)]].

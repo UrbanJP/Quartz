@@ -1,0 +1,1 @@
+Two [[Proposition|Propositions]] are equivalent if they have the same [[Truth Table]].

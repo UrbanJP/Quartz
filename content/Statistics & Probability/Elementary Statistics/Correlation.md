@@ -1,0 +1,1 @@
+Correlation is the relationship between two [[Random Variable|Random Variables]] that accounts for how linearly related both are to each other. This is measured numerically using the [[Correlation Coefficient]].

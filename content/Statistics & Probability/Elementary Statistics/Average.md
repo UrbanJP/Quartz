@@ -1,0 +1,1 @@
+Same as [[Central Tendency]], but often just means [[Arithmetic Mean]].

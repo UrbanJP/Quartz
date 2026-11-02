@@ -1,0 +1,1 @@
+A discrete probability distribution is a [[Probability Distribution]] with a [[Probability Mass Function]]that is not [[Continuous]]. This means we can pinpoint probabilities of exact values and the possible outcomes are either finite our [[Countable|Countably Infinite]].

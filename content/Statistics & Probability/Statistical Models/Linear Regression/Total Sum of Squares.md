@@ -1,0 +1,2 @@
+The total sum of squares (TSS or SST) is the sum of squared differences between observed values and mean values. If we take all the differences between observations and [[Mean|Means]], square them and add them up, we get total sum of squares.
+$$TSS = SSR + SSE$$

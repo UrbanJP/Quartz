@@ -1,0 +1,1 @@
+Distribution that measures the number of [[Trials and Experiments|Trials]] until the first success.

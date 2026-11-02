@@ -1,0 +1,3 @@
+A probability distribution is a mathematical object that describes everything about a [[Random Variable|Random Variable's]] probabilistic behavior. It can be thought of as a list of facts about a random variable. The [[Probability Density Function]] (PDF) and the [[Cumulative Density Function]] (CDF) are representations of the probability distribution.
+
+When asked to provide the probability distribution of a random variable $X$, it typically suffices to show the PDF or CDF along with the bounds.

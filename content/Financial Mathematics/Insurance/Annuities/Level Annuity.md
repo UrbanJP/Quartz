@@ -1,0 +1,1 @@
+A level annuity is a type of [[Annuity]] that has [[Level Payments]], payments that remain the same each payment period.

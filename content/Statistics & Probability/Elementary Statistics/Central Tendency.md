@@ -1,0 +1,1 @@
+Central tendency, or measures of center, are measures resulting in a central value for a [[Probability Distribution]]. The most common forms are the [[Arithmetic Mean]], [[Median]], and [[Mode]].

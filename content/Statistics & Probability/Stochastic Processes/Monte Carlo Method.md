@@ -1,0 +1,1 @@
+To estimate the probability of an event $A$ occurring, the [[Trials and Experiments|Experiment]] is simulated many times and the proportion of times $A$ occurred over the amount of times the experiment was conducted is the approximation of $P(A)$.

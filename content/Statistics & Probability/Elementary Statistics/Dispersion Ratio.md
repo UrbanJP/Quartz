@@ -1,0 +1,1 @@
+Dispersion ratio is [[Variance]] divided by [[Arithmetic Mean|Mean]].

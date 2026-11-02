@@ -1,0 +1,1 @@
+What does it mean to fit a model? The saying "Fit the model" is shorthand for "Fit the model to the data". It is tweaking the parameters of a model such that the [[Predictor Variable|Predictors]] more accurately estimate the [[Response Variable]]. A good model has high accuracy in reproducing the observed data.

@@ -1,0 +1,1 @@
+Not to be confused with a [[Contradiction]]. A paradox can mean either a true result that is unintuitive or an apparent contradiction. 

@@ -1,0 +1,1 @@
+Not to be confused with [[Homeomorphism]]. A homomorphism is a structure preserving mapping $\phi$ between two [[Algebraic Structure|Algebraic Structures]] $G$ and $H$ along with an [[Operator]] "$\cdot$" where the following holds $$\phi(x \cdot y) = \phi(x) \cdot \phi(y) \quad \forall x\in G \ $$

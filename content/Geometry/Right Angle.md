@@ -1,0 +1,1 @@
+A right angle is a 90 [[Degrees|Degree]] [[Angle]].

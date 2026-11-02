@@ -1,0 +1,1 @@
+Inverse transform sampling, sometimes called Inverse CDF transformation, is a method for transforming [[Uniform Distribution|Uniformly Distributed]] values into any desired [[Probability Distribution]]. It utilizes the [[Inverse Function|Inverse]] of the desired distribution's [[Cumulative Density Function]].

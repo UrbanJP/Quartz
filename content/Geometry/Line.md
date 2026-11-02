@@ -1,0 +1,1 @@
+A line is an [[Infinity|Infinitely]] long continuous connection of points with zero [[Curvature]]. Algebraically it is an equation of the form $y=mx+b$

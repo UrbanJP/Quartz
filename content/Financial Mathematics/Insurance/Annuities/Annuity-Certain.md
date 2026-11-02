@@ -1,0 +1,1 @@
+Annuity-certain is a type of [[Annuity]] where the length of the contract is predetermined.

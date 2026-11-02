@@ -1,0 +1,1 @@
+Two events are disjoint if their intersection is zero. Sometimes two events being disjoint is confused by early students of statistics with being [[Independence|Independent]], but it is actually a requirement for disjoint events to be dependent on each other. If one occurs the other cannot.

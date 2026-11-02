@@ -1,0 +1,1 @@
+A point estimate is a single value used to estimate a population parameter.

@@ -1,0 +1,1 @@
+A scalar is a number that representing magnitude or scale. It is oftentimes used to represent length.

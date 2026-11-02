@@ -1,0 +1,2 @@
+Total Compound Interest is the total [[Interest]] over a "total" amount of time that takes into consideration varying periodic [[Compound Interest]] rates. This can be best understood with an example. Say that we have three years of annual [[Interest Rate|Interest Rates]] $i_1 = 0.038$, $i_2 = 0.042$, and $i_3 = -0.007$. The total compound interest rate is $$(1+i_1)(1+i_2)(1+i_3) = (1.038)(1.042)(0.993) = 1.074$$
+This represents the value of $1 after three years.

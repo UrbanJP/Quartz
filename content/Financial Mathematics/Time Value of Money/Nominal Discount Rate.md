@@ -1,0 +1,1 @@
+The analogue of [[Nominal Interest Rate]] but for [[Discount Rate|Discounts]]. It is the discount rate before compounding is taken into consideration and is sometimes notated as $d^{(m)}$ where $m$ is the [[Compounding Frequency]].

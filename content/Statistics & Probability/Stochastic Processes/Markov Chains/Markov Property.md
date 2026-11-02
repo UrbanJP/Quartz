@@ -1,0 +1,1 @@
+The Markov property is an attribute of a [[Randomness|Random]] process having no memory. This means previous states do not matter and only the current state affects the prediction of the next state. This means the current state is [[Independence|Independent]] from all past states. 

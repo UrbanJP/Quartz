@@ -1,0 +1,1 @@
+An antiderivative is the *reversal* of a [[Derivative]].

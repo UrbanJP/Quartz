@@ -1,0 +1,1 @@
+A truth table helps us understand in which cases a [[Proposition]] is true or false. If in every case a proposition is true then it is a [[Tautology]]. The case where it is always false then it is a [[Contradiction]].

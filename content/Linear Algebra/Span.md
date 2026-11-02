@@ -1,0 +1,1 @@
+The span of a set of [[Vector|Vectors]] $V = \{ \vec v_1, \vec v_2, ... , \vec v_n \}$ is the [[Set]] of [[Linear Combination|Linear Combinations]] of $V$.

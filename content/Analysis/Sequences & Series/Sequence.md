@@ -1,0 +1,1 @@
+A sequence is a list of numbers where order matters.

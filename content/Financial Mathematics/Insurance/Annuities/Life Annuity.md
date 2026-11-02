@@ -1,0 +1,1 @@
+A life annuity is a type of [[Annuity]] that lasts for the recipient's full lifetime.

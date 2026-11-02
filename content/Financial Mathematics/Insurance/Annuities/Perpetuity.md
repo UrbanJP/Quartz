@@ -1,0 +1,1 @@
+A perpetuity is an [[Annuity]] that has an indefinite (modeled as an [[Infinity|Infinite]]) contract time span.

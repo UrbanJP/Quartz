@@ -1,0 +1,1 @@
+Estimates $\sigma^2$ plus a term that grows with the true slopes.

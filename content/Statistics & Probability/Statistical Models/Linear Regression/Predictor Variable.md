@@ -1,0 +1,1 @@
+A predictor variable is a variable whose value predicts or determines the [[Response Variable]]. In earlier courses, this would often be called the [[Independent Variable]]. Other terms include input variable and explanatory variable.

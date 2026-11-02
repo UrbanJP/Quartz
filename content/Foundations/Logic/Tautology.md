@@ -1,0 +1,1 @@
+A tautology is a [[Proposition]] that is always true. It can be thought of as the opposite of a [[Contradiction]].

@@ -1,0 +1,1 @@
+Compounding frequency is how often the compounding effect takes place per period. It is typically denoted with the variable $n$ like in [[Compound Interest]] formulas.

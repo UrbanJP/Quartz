@@ -1,0 +1,1 @@
+Measures of spread measure how spread out data is. Typical measurements include [[Variance]],[[Standard Deviation]], and the [[Dispersion Ratio]].

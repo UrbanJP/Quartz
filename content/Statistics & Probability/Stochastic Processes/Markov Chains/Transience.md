@@ -1,0 +1,1 @@
+A state $k$ in a [[Markov Chain]] is transient if it is not [[Recurrence|Recurrent]].

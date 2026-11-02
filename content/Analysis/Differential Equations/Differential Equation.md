@@ -1,0 +1,2 @@
+A differential equation is an [[Equation]] relating one or more variables to their [[Derivative]]. These are categorized as either an [[Ordinary Differential Equation]] or a [[Partial Differential Equation]]. An ordinary differential equation contains an unknown function of one variable $x$ usually called $y$, and some given functions of $x$. Partial differential equations contain multivariate [[Function|Functions]] and their [[Partial Derivative|Partial Derivatives]].
+

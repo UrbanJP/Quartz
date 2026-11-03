@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: urbanjp.github.io/Quartz/
+  baseUrl: urbanjp.github.io/uartz/
   ignorePatterns:
     - private
     - templates
